@@ -1,0 +1,10 @@
+Which planet is known as the "Red Planet"?;Venus,Saturn,Mars,Mercury;2
+Which is the fastest bird in the world?;Bald Eagle,Peregrine Falcon,Hummingbird,Raven;1
+Which food item never spoils?;Honey,Chicken,Cereal,Beans;0
+Which colour is not there in the rainbow?;Indigo,Red,Brown,Yellow;2
+How many rings appear in the Olympic flag?;1,3,5,7;2
+What is the general name for a group of wolves?;Pack,School,Flock,Herd;0
+What is the currency of Scotland?;Euro,Yen,Pound Sterling,Haggis;2
+Which is the longest river in the world?;Mississippi,Nile,Amazon,Yangtze;1
+Who wrote the epic novel "War and Peace"?;Leo Tolstoy,Fyodor Dostoevsky,Charles Dickens,Victor Hugo;0
+Who painted the Mona Lisa?;Caravaggio,Sandro Botticelli,Leaonardo Da Vinci,Galileo Galilei;2
